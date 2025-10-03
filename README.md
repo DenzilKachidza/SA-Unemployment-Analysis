@@ -32,7 +32,7 @@ The analysis includes:
 
 ## Analysis & Visualizations
 ### Gauteng vs South Africa
-![Gauteng vs National](https://github.com/DenzilKachidza/SA-Unemployment-Analysis/blob/b5090fadfa58db5e8ea816d979c6e14f59fb90bc/Gauteng%20vs%20National.png))
+![Gauteng vs National](https://github.com/DenzilKachidza/SA-Unemployment-Analysis/blob/b5090fadfa58db5e8ea816d979c6e14f59fb90bc/Gauteng%20vs%20National.png)
 - The chart shows **Gauteng’s unemployment** compared to the **national average** from 2008–2024.
 - Key spikes during **COVID-19 (2020–2021)** are highlighted.
 
