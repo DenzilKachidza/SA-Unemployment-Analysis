@@ -40,18 +40,20 @@ The analysis includes:
 - The chart shows **Gauteng’s unemployment** compared to the **national average** from 2008–2024.
 - Key spikes during **COVID-19 (2020–2021)** are highlighted.
 
+---
+
 ### Provincial Averages
 ![Provincial Unemployment](images/province_avg.png)
 - Highlights **which provinces have higher or lower unemployment** on average.
 - Useful for comparing regional disparities.
-
+---
 ### Yearly Trends
 - Aggregated by year to smooth quarterly fluctuations and identify long-term trends.
 - Provides context for policy evaluation and economic planning.
-
-###Metro vs Province Differences
+---
+### Metro vs Province Differences
 !
-Highlights how metro areas perform relative to their province. Positive values indicate higher unemployment in the metro than the provincial average.
+- Highlights how metro areas perform relative to their province. Positive values indicate higher unemployment in the metro than the provincial average.
 ---
 
 ## Insights
